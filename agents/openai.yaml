@@ -1,0 +1,4 @@
+interface:
+  display_name: "App 宣传图排版通用版"
+  short_description: "从真实产品截图出发，规划并验收多语言商店图和社交海报"
+  default_prompt: "用 $app-marketing-artwork 把我提供的 App 截图整理成适合目标渠道的宣传图。"
